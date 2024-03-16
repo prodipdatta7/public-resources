@@ -1,16 +1,33 @@
 ## What type of PR is this? (check all applicable)
 
-- [ ] Refactor
-- [ ] Feature
-- [ ] Bug Fix
-- [ ] Optimization
-- [ ] Documentation Update
+- [ ] 🧑‍💻 Refactor
+- [ ] 🍕 Feature
+- [ ] 🐛 Bug Fix
+- [ ] 🔥 Optimization
+- [ ] 📝 Documentation Update
 
 ## Description
+_Please replace this line with the description you want to provide for this PR._
 
 ## Related Tickets & Documents
+_Note: insert the issue number after #_
 - Related Issue #
 - Closes #
+
+## Added/updated tests?
+_We encourage you to keep the code coverage percentage at 80% and above._
+
+- [ ] Yes
+- [ ] No, because not needed
+- [ ] No, and this is why: [_please replace this line with details on why tests
+      have not been included_]
+- [ ] I need help with writing tests
+
+## Added to documentation?
+
+- [ ] 📜 README.md
+- [ ] 📕 storybook
+- [ ] 🙅 no documentation needed
 
 ## QA Instructions, Screenshots, Recordings
 
@@ -24,14 +41,6 @@ _If your PR includes UI changes, please utilize this checklist:_
 - [ ] Keyboard operability supported?
 - [ ] Checked with [axe DevTools](https://www.deque.com/axe/) and addressed `Critical` and `Serious` issues?
 - [ ] Color contrast tested?
-
-## Added/updated tests?
-_We encourage you to keep the code coverage percentage at 80% and above._
-
-- [ ] Yes
-- [ ] No, and this is why: _please replace this line with details on why tests
-      have not been included_
-- [ ] I need help with writing tests
 
 ## [optional] Are there any post deployment tasks we need to perform?
 
